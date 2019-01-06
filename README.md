@@ -4,6 +4,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/PiedWeb/FileCache/LICENSE.md)
 [![Build Status](https://img.shields.io/travis/PiedWeb/FileCache/master.svg?style=flat)](https://travis-ci.org/PiedWeb/FileCache)
 [![Quality Score](https://img.shields.io/scrutinizer/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache/code-structure)
 [![Total Downloads](https://img.shields.io/packagist/dt/piedweb/file-cache.svg?style=flat)](https://packagist.org/packages/piedweb/file-cache)
 
 Simple file cache library. Tested and approved. Intuitive and documented (inline and in this Readme).
@@ -64,4 +65,5 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/PiedWeb/FileCache/LICENSE.md)
 [![Build Status](https://img.shields.io/travis/PiedWeb/FileCache/master.svg?style=flat)](https://travis-ci.org/PiedWeb/FileCache)
 [![Quality Score](https://img.shields.io/scrutinizer/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache/code-structure)
 [![Total Downloads](https://img.shields.io/packagist/dt/piedweb/file-cache.svg?style=flat)](https://packagist.org/packages/piedweb/file-cache)
