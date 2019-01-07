@@ -1,7 +1,7 @@
 {
     "name": "piedweb/file-cache",
     "type": "library",
-    "description": ":package_description",
+    "description": "Permit to manage data in a file. Simple, Static and Intuitive.",
     "keywords": [
         "Pied Web",
         "File Cache"
