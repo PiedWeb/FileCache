@@ -1,7 +1,7 @@
 # File Cache
 
 [![Latest Version](https://img.shields.io/github/tag/PiedWeb/FileCache.svg?style=flat&label=release)](https://github.com/PiedWeb/FileCache/tags)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/PiedWeb/FileCache/LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/PiedWeb/FileCache/blob/master/LICENSE)
 [![Build Status](https://img.shields.io/travis/PiedWeb/FileCache/master.svg?style=flat)](https://travis-ci.org/PiedWeb/FileCache)
 [![Quality Score](https://img.shields.io/scrutinizer/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache/code-structure)
@@ -62,7 +62,7 @@ Please see [contributing](https://dev.piedweb.com/contributing)
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 [![Latest Version](https://img.shields.io/github/tag/PiedWeb/FileCache.svg?style=flat&label=release)](https://github.com/PiedWeb/FileCache/tags)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/PiedWeb/FileCache/LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/PiedWeb/FileCache/blob/master/LICENSE)
 [![Build Status](https://img.shields.io/travis/PiedWeb/FileCache/master.svg?style=flat)](https://travis-ci.org/PiedWeb/FileCache)
 [![Quality Score](https://img.shields.io/scrutinizer/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/PiedWeb/FileCache.svg?style=flat)](https://scrutinizer-ci.com/g/PiedWeb/FileCache/code-structure)
